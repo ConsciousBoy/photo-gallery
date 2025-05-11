@@ -20,7 +20,7 @@ composer.lock
 *.log
 
 # Project specific
-/app/public/images/*
+# /app/public/images/*  # Removing this line to allow images to be tracked
 !app/public/images/.gitkeep
 
 # حذف کامل این خط:
