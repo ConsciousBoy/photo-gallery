@@ -22,4 +22,6 @@ composer.lock
 # Project specific
 /app/public/images/*
 !app/public/images/.gitkeep
-/app/config/config.php 
+
+# حذف کامل این خط:
+# /app/config/config.php 
