@@ -52,7 +52,7 @@ A modern and secure web application for viewing and managing photos, built with 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/photo-gallery.git
+   git clone https://github.com/ConsciousBoy/photo-gallery.git
    cd photo-gallery
    ```
 
